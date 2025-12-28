@@ -1,5 +1,5 @@
 {
-    "editor.hover.enabled": false,
+    "editor.hover.enabled": "off",
     "editor.hover.above": false,
     "editor.hover.sticky": false,
     "editor.parameterHints.enabled": false
